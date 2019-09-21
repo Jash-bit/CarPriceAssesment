@@ -1,0 +1,2 @@
+# CarPriceAssesment
+Automobiles (specifically cars) are not just a luxury anymore but have become a necessity. In the recent times, car manufactures have shifted their focus and resources from the manufacturing of different variants of cars to luxury cars and hence the prices are sky rocketing. Manufacturers like Mercedes, Audi etc are into this business and are doing really well. This project addresses the issue concerning prices of automobiles affected by various attributes which are explained in the subsequent sections.
